@@ -1,3 +1,4 @@
+
 # James Nguyen
 Graduating MS CS in Dec 2024. An experienced software engineer participated in many successful projects
 ## Education
@@ -5,7 +6,6 @@ Graduating MS CS in Dec 2024. An experienced software engineer participated in m
 - University at Houston, BS in Computer Science (May 2021)
 
 ## Work experience
-
 #### Software Engineer Intern 
 ##### University of Houston , May 2024 - Aug 2024 (3 months)
 - Developed AI-SERVE.org , a platform for Houston Food Bank to track and respond to hurricane events  
@@ -13,6 +13,7 @@ Graduating MS CS in Dec 2024. An experienced software engineer participated in m
 - Deployed front-end application on AWS EC2  
 - integrated with ML services using AWS lambda and Docker  
 - Architected a software system that is fast to build, easy to scale, and battle test with xUnit
+
 ####   Software Engineer
 ##### Tata Consultancy Services, Sep 2021 - Aug 2023 (2 years)
 - Developed a custom Salesforce application using Apex, SOQL, and lightning web components for client Southern California Electric 
@@ -22,6 +23,7 @@ effectively
 - Optimized backend architecture to handle daily workload of hundred of users  
 - Utilized Agile methodology to deliver new features quickly.  
 - Thoroughly tested with ApexTestSuite to ensure high-quality codebase
+
 ####   Undergraduate Research Assistant
 ##### University at Houston, Jan 2019 - Feb 2021 (2 years)
 - Designed and developed a web app to create datasets used in research projects  
@@ -33,7 +35,7 @@ effectively
 Pytorch  
 - Received National Science Foundation REU award in summer 2020 for my excellent results  
 - Received Provost’s Undergraduate Research Scholarship
-- 
+
 #### Android Developer Intern
 ##### Homes.com, Norfolk, VA, May 2018 - Dec 2018
 - Helped build a native app for Homes.com to reach millions of homebuyers across the US.  
