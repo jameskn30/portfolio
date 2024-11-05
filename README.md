@@ -8,7 +8,7 @@ Graduating MS CS in Dec 2024. An experienced software engineer participated in m
 
 #### Software Engineer Intern 
 ##### University of Houston , May 2024 - Aug 2024 (3 months)
-- Developed AI-SERVE, a platform for Houston Food Bank to track and respond to hurricane events  
+- Developed AI-SERVE.org , a platform for Houston Food Bank to track and respond to hurricane events  
 - Built with Blazor, .NET Core, and MySQL. Also used Python for machine learning services.  
 - Deployed front-end application on AWS EC2  
 - integrated with ML services using AWS lambda and Docker  
@@ -46,8 +46,11 @@ Pytorch
 - Android Room library for database operations
 
 ## Projects
-
-
+#### Project 1
+- bullet point 1
+- bullet point 1
+- bullet point 1
+<img>
 
 
 ## Rewards
