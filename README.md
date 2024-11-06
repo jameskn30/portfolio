@@ -8,7 +8,7 @@ Graduating MS CS in Dec 2024. An experienced software engineer participated in m
 ## Work experience
 #### Software Engineer Intern 
 ##### University of Houston , May 2024 - Aug 2024 (3 months)
-- Developed [AI-SERVE.org](ai-serve.org) , a platform for Houston Food Bank to track and respond to hurricane events  
+- Developed [AI-SERVE.org](https://ai-serve.org/index.html) , a platform for Houston Food Bank to track and respond to hurricane events  
 - Built with Blazor, .NET Core, and MySQL. Also used Python for machine learning services.  
 - Deployed front-end application on AWS EC2  
 - integrated with ML services using AWS lambda and Docker  
@@ -38,7 +38,7 @@ Pytorch
 
 #### Android Developer Intern
 ##### Homes.com, Norfolk, VA, May 2018 - Dec 2018
-- Helped build a native app for [Homes.com](homes.com) to reach millions of homebuyers across the US.  
+- Helped build a native app for [Homes.com](https://www.homes.com/) to reach millions of homebuyers across the US.  
 - Used MVVM and navigator pattern  
 - Used Kotlin and Java for legacy code  
 - JUnit4 and Mokito for testing.  
