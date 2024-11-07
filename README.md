@@ -57,7 +57,7 @@ Pytorch
 - Airflow to orchestrate the scraper and summarizer services
 - Postgres DB
 - Next.js app that shows list of news and latest summary of current market
-- [News App](https://news-h68xfjs2d-jameskn30s-projects.vercel.app/)
+- [News App](https://news-llm.vercel.app)
 
 
 ## Rewards
