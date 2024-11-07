@@ -2,10 +2,12 @@
 # James Nguyen
 Graduating MS CS in Dec 2024. An experienced software engineer participated in many successful projects
 ## Education
+---
 - University at Buffalo, MS in Computer Science, AI focus (Dec 2024)
 - University at Houston, BS in Computer Science (May 2021)
 
 ## Work experience
+---
 #### Software Engineer Intern 
 ##### University of Houston , May 2024 - Aug 2024 (3 months)
 - Developed [AI-SERVE.org](https://ai-serve.org/index.html) , a platform for Houston Food Bank to track and respond to hurricane events  
@@ -48,13 +50,17 @@ Pytorch
 - Android Room library for database operations
 
 ## Projects
-#### Project 1
-- bullet point 1
-- bullet point 1
-- bullet point 1
-<img>
+---
+#### News Summary App
+- Scrape financial news from internet (Yahoo) with Scrapy
+- Generate overview summary with scraped news with LLAMA 3.2 (use OLLAMA and Langchain)
+- Airflow to orchestrate the scraper and summarizer services
+- Postgres DB
+- Next.js app that shows list of news and latest summary of current market
+- [News App](https://news-h68xfjs2d-jameskn30s-projects.vercel.app/)
 
 
 ## Rewards
+---
 - National Science Foundation REU award in summer 2020
 - Provost’s Undergraduate Research Scholarship Fall 2020
