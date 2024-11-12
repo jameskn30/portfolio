@@ -51,13 +51,14 @@ Pytorch
 
 ## Projects
 ---
-#### News Summary App
+#### NewsHub App: LLM application with LangChain
 - Scrape financial news from internet (Yahoo) with Scrapy
 - Generate overview summary with scraped news with LLAMA 3.2 (use OLLAMA and Langchain)
 - Airflow to orchestrate the scraper and summarizer services
 - Postgres DB
 - Next.js app that shows list of news and latest summary of current market
-- [News App](https://news-llm.vercel.app)
+- [NewsHub app](https://news-llm.vercel.app)
+- [Intro Video](https://youtu.be/NDaNbNeYU0g)
 
 
 ## Rewards
