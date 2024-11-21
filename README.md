@@ -21,11 +21,11 @@ Graduating MS CS in Dec 2024. An experienced software engineer participated in m
 ---
 #### Software Engineer Intern 
 ##### University of Houston , May 2024 - Aug 2024 (3 months)
-- Developed [AI-SERVE.org](https://ai-serve.org/index.html) , a platform for Houston Food Bank to track and respond to hurricane events  
-- Built with Blazor, .NET Core, and MySQL. Also used Python for machine learning services.  
-- Deployed front-end application on AWS EC2  
-- integrated with ML services using AWS lambda and Docker  
-- Architected a software system that is fast to build, easy to scale, and battle test with xUnit
+- AI-SERVE, a platform for Houston Food Bank to track and distribute food in hurricane events
+- Developed a software system using Blazor, .NET core, MySQL  that is fast to build and easy to scale
+- Used Pytorch, Scikit-learn, Pandas to test  and integrate ML models to AI-SERVE web application
+- Deployed front-end application on AWS EC2,  ML services with AWS Lambda and Docker
+- Project was funded by Natural Science Foundation ([grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2133352&HistoricalAwards=false))
 
 ####   Software Engineer
 ##### Tata Consultancy Services, Sep 2021 - Aug 2023 (2 years)
