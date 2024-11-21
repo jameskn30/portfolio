@@ -6,6 +6,17 @@ Graduating MS CS in Dec 2024. An experienced software engineer participated in m
 - University at Buffalo, MS in Computer Science, AI focus (Dec 2024)
 - University at Houston, BS in Computer Science (May 2021)
 
+## Projects
+---
+#### NewsHub App: LLM application with LangChain
+- Scrape financial news from internet (Yahoo) with Scrapy
+- Generate overview summary with scraped news with LLAMA 3.2 (use OLLAMA and Langchain)
+- Airflow to orchestrate the scraper and summarizer services
+- Postgres DB
+- Next.js app that shows list of news and latest summary of current market
+- [NewsHub app](https://news-llm.vercel.app)
+- [Intro Video](https://youtu.be/NDaNbNeYU0g)
+  
 ## Work experience
 ---
 #### Software Engineer Intern 
@@ -49,16 +60,6 @@ Pytorch
 - Used dagger 2 for dependency injection  
 - Android Room library for database operations
 
-## Projects
----
-#### NewsHub App: LLM application with LangChain
-- Scrape financial news from internet (Yahoo) with Scrapy
-- Generate overview summary with scraped news with LLAMA 3.2 (use OLLAMA and Langchain)
-- Airflow to orchestrate the scraper and summarizer services
-- Postgres DB
-- Next.js app that shows list of news and latest summary of current market
-- [NewsHub app](https://news-llm.vercel.app)
-- [Intro Video](https://youtu.be/NDaNbNeYU0g)
 
 
 ## Rewards
