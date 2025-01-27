@@ -16,6 +16,11 @@ Graduating MS CS in Dec 2024. An experienced software engineer participated in m
 - Next.js app that shows list of news and latest summary of current market
 - [NewsHub app](https://news-llm.vercel.app)
 - [Intro Video](https://youtu.be/NDaNbNeYU0g)
+
+#### Fantasy Typer
+- Web app built with Next.js, Typescript, shadcn/ui,
+- Backend built with FastAPI, LLM service use LLama3.2:8B
+- [Fantasy Typer](https://project3-llm-typeracer.vercel.app/)
   
 ## Work experience
 ---
