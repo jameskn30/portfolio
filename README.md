@@ -36,7 +36,7 @@
 ##### University at Houston, Jan 2019 - Feb 2021 (2 years)
 
 #### Android Developer Intern
-##### Homes.com, Norfolk, VA, May 2018 - Dec 2018
+##### Homes.com, Norfolk, VA, May 2018 - Dec 2018 (6 months)
 
 
 
